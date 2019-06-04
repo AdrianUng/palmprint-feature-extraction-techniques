@@ -1,23 +1,26 @@
 # palmprint-feature-extraction-techniques
-Various palmprint feature extraction techniques implemneted in Python (and OpenCV), as part of PhD...
+Various palmprint feature extraction techniques implemneted in Python (and OpenCV), as part of my PhD work...
+
+Palmprint Region of Interest used throughout, for reference: LTrP_LMTrP_implementation/001MBL_G4_S1_C.png
+
+![alt text](LTrP_LMTrP_implementation/001MBL_G4_S1_C.png "Logo Title Text 1")
 
 ## Implemented:
-## 1. Competitive Coding Scheme (CompCode) \[1]
--> used for Palmprint recognition\[1]
+## 1. Competitive Coding Scheme (CompCode) \[1] -> used for Palmprint recognition
 
-## 2. Local Tetra Pattern (LTrP)  \[2]
--> used for Image Indexing
-#### LTrP1 Code
+![alt text](CompCode_implementation/compcode.png "Logo Title Text 1")
+## 2. Local Tetra Pattern (LTrP)  \[2] -> used for Image Indexing
+
 ![alt text](LTrP_LMTrP_implementation/ltrp1_v1.png "Logo Title Text 1")
 
-#### LTrP2 Code
+
 ![alt text](LTrP_LMTrP_implementation/ltrp2_v1.png "Logo Title Text 1")
 
 **The implementation can be found in 'LTrP_LMTrP_implementation/LTrP_and_LMTrP_v1.ipynb'**
 
 
-## 3. Local Micro-structure Tetra Pattern  \[3]
--> used for Palmprint recognition
+## 3. Local Micro-structure Tetra Pattern  \[3] -> used for Palmprint recognition
+
 **The implementation can be found in 'LTrP_LMTrP_implementation/LTrP_and_LMTrP_v1.ipynb'**
 ![alt text](LTrP_LMTrP_implementation/input_and_intermediate_features_v1.png "Logo Title Text 1")
 
