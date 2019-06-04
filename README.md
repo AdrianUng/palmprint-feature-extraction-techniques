@@ -1,9 +1,12 @@
 # palmprint-feature-extraction-techniques
 Various palmprint feature extraction techniques implemneted in Python (and OpenCV), as part of my PhD work...
 
-Palmprint Region of Interest used throughout, for reference: LTrP_LMTrP_implementation/001MBL_G4_S1_C.png
-
-![alt text](LTrP_LMTrP_implementation/001MBL_G4_S1_C.png "Logo Title Text 1")
+## Required libraries:
+1. OpenCV (I used 3.4.2)
+2. Numpy
+3. Scipy
+4. Scikit-learn
+5. Scikit-image
 
 ## Implemented:
 ## 1. Competitive Coding Scheme (CompCode) \[1] -> used for Palmprint recognition
@@ -23,6 +26,10 @@ Palmprint Region of Interest used throughout, for reference: LTrP_LMTrP_implemen
 
 **The implementation can be found in 'LTrP_LMTrP_implementation/LTrP_and_LMTrP_v1.ipynb'**
 ![alt text](LTrP_LMTrP_implementation/input_and_intermediate_features_v1.png "Logo Title Text 1")
+
+## Sample palmprint image: *LTrP_LMTrP_implementation/001MBL_G4_S1_C.png*
+
+![alt text](LTrP_LMTrP_implementation/001MBL_G4_S1_C.png "Logo Title Text 1")
 
 # References
 \[1] A. W. -. Kong and D. Zhang, "Competitive coding scheme for palmprint verification," Proceedings of the 17th International Conference on Pattern Recognition, 2004. ICPR 2004., Cambridge, 2004, pp. 520-523 Vol.1. doi: 10.1109/ICPR.2004.1334184. [IEEE-Xplore link](https://ieeexplore.ieee.org/document/1334184)
