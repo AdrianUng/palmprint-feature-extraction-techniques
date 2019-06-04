@@ -1,5 +1,5 @@
 # palmprint-feature-extraction-techniques
-Various palmprint feature extraction techniques implemneted in Python 2.7 (and OpenCV), as part of my PhD work...
+Various palmprint feature extraction techniques implemented in Python 2.7 (and OpenCV), as part of my PhD work...
 
 ## Required libraries:
 1. OpenCV (I used 3.4.2)
