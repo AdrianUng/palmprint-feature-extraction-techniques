@@ -9,10 +9,22 @@ Various palmprint feature extraction techniques implemented in Python 2.7 (and O
 5. Scikit-image
 
 ## Implemented:
-## 1. Competitive Coding Scheme (CompCode) \[1] -> used for Palmprint recognition
+1. Competitive Coding Scheme (CompCode)
+2. Robust Line Orientation Code (RLOC)
+3. Local Tetra Pattern (LTrP)
+4. Local Micro-structure Tetra Pattern (LMTrP)
+
+
+## Details:
+## 1. Competitive Coding Scheme (CompCode) \[1] -> used for Palmprint feature extraction
 
 ![alt text](CompCode_implementation/compcode.png "Logo Title Text 1")
-## 2. Local Tetra Pattern (LTrP)  \[2] -> used for Image Indexing
+
+## 2. Robust Line Orientation Code (RLOC) \[2] -> used for Palmprint feature extraction
+[article](https://www.sciencedirect.com/science/article/pii/S0031320307004530)
+
+
+## 3. Local Tetra Pattern (LTrP)  \[3] -> used for Image Indexing
 
 ![alt text](LTrP_LMTrP_implementation/ltrp1_v1.png "Logo Title Text 1")
 
@@ -22,7 +34,7 @@ Various palmprint feature extraction techniques implemented in Python 2.7 (and O
 **The implementation can be found in 'LTrP_LMTrP_implementation/LTrP_and_LMTrP_v1.ipynb'**
 
 
-## 3. Local Micro-structure Tetra Pattern  \[3] -> used for Palmprint recognition
+## 4. Local Micro-structure Tetra Pattern  \[4] -> used for Palmprint recognition
 
 **The implementation can be found in 'LTrP_LMTrP_implementation/LTrP_and_LMTrP_v1.ipynb'**
 ![alt text](LTrP_LMTrP_implementation/input_and_intermediate_features_v1.png "Logo Title Text 1")
