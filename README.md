@@ -21,7 +21,6 @@ Various palmprint feature extraction techniques implemented in Python 2.7 (and O
 ![alt text](CompCode_implementation/compcode.png "Logo Title Text 1")
 
 ## 2. Robust Line Orientation Code (RLOC) \[2] -> used for Palmprint feature extraction
-[article](https://www.sciencedirect.com/science/article/pii/S0031320307004530)
 
 
 ## 3. Local Tetra Pattern (LTrP)  \[3] -> used for Image Indexing
@@ -46,10 +45,12 @@ Various palmprint feature extraction techniques implemented in Python 2.7 (and O
 # References
 \[1] A. W. -. Kong and D. Zhang, "Competitive coding scheme for palmprint verification," Proceedings of the 17th International Conference on Pattern Recognition, 2004. ICPR 2004., Cambridge, 2004, pp. 520-523 Vol.1. doi: 10.1109/ICPR.2004.1334184. [IEEE-Xplore link](https://ieeexplore.ieee.org/document/1334184)
 
-\[2] S. Murala, R. P. Maheshwari and R. Balasubramanian, "Local Tetra Patterns: A New Feature Descriptor for Content-Based Image Retrieval," in IEEE Transactions on Image Processing, vol. 21, no. 5, pp. 2874-2886, May 2012.
+\[2] Jia, W., Huang, D. S., & Zhang, D. (2008). Palmprint verification based on robust line orientation code. Pattern Recognition, 41(5), 1521–1530. https://doi.org/10.1016/j.patcog.2007.10.011 [link](https://www.sciencedirect.com/science/article/pii/S0031320307004530)
+
+\[3] S. Murala, R. P. Maheshwari and R. Balasubramanian, "Local Tetra Patterns: A New Feature Descriptor for Content-Based Image Retrieval," in IEEE Transactions on Image Processing, vol. 21, no. 5, pp. 2874-2886, May 2012.
 doi: 10.1109/TIP.2012.2188809. [IEEE-Xplore link](https://ieeexplore.ieee.org/abstract/document/6175124)
 
-\[3] Gen Li, Jaihie Kim, "Palmprint recognition with Local Micro-structure Tetra Pattern" in Pattern Recognition, Volume 61, 2017,Pages 29-46, doi: 10.1016/j.patcog.2016.06.025. [Science Direct link](http://www.sciencedirect.com/science/article/pii/S003132031630142X)
+\[4] Gen Li, Jaihie Kim, "Palmprint recognition with Local Micro-structure Tetra Pattern" in Pattern Recognition, Volume 61, 2017,Pages 29-46, doi: 10.1016/j.patcog.2016.06.025. [Science Direct link](http://www.sciencedirect.com/science/article/pii/S003132031630142X)
 
 
 
